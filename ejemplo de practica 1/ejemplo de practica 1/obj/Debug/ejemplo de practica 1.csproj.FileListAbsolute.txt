@@ -1,0 +1,9 @@
+C:\Users\Estudiante\Desktop\ejemplo de practica 1\ejemplo de practica 1\bin\Debug\ejemplo de practica 1.exe.config
+C:\Users\Estudiante\Desktop\ejemplo de practica 1\ejemplo de practica 1\bin\Debug\ejemplo de practica 1.exe
+C:\Users\Estudiante\Desktop\ejemplo de practica 1\ejemplo de practica 1\bin\Debug\ejemplo de practica 1.pdb
+C:\Users\Estudiante\Desktop\ejemplo de practica 1\ejemplo de practica 1\obj\Debug\ejemplo de practica 1.csprojResolveAssemblyReference.cache
+C:\Users\Estudiante\Desktop\ejemplo de practica 1\ejemplo de practica 1\obj\Debug\ejemplo_de_practica_1.Form1.resources
+C:\Users\Estudiante\Desktop\ejemplo de practica 1\ejemplo de practica 1\obj\Debug\ejemplo_de_practica_1.Properties.Resources.resources
+C:\Users\Estudiante\Desktop\ejemplo de practica 1\ejemplo de practica 1\obj\Debug\ejemplo de practica 1.csproj.GenerateResource.Cache
+C:\Users\Estudiante\Desktop\ejemplo de practica 1\ejemplo de practica 1\obj\Debug\ejemplo de practica 1.exe
+C:\Users\Estudiante\Desktop\ejemplo de practica 1\ejemplo de practica 1\obj\Debug\ejemplo de practica 1.pdb
